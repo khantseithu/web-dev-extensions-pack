@@ -1,0 +1,36 @@
+{
+  "name": "webdev-pack-by-sithu",
+  "displayName": "Web Dev Extension Pack by Sithu",
+  "description": "the tools I use to succeed",
+  "version": "0.0.1",
+  "icon": "images/icon-pack.png",
+  "publisher": "Khant Sithu",
+  "galleryBanner": {
+    "color": "#399e64",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "publisher.extensionName",
+    "GitHub.copilot",
+    "GitHub.copilot-labs",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "dsznajder.es7-react-js-snippets",
+    "eamodio.gitlens",
+    "formulahendry.auto-rename-tag",
+    "christian-kohler.path-intellisense",
+    "formulahendry.auto-close-tag",
+    "christian-kohler.npm-intellisense",
+    "mikestead.dotenv",
+    "yoavbls.pretty-ts-errors",
+    "AmazonWebServices.aws-toolkit-vscode",
+    "rangav.vscode-thunder-client",
+    "DavidAnson.vscode-markdownlint"
+  ]
+}
